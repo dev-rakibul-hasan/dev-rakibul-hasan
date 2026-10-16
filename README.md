@@ -1,3 +1,4 @@
+---
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakibul+Hasan;AI+Agent+Engineer+%F0%9F%A4%96;RAG+%26+LLM+Applications;Python+Developer+%F0%9F%90%8D" alt="Typing SVG" />
@@ -15,8 +16,9 @@
 
 - 🎓 Final-year **BSc in Computer Science & Engineering** @ Begum Rokeya University, Rangpur *(graduating Jan 2027)*
 - 🤖 **AI Agent Engineer** — I build AI agents, RAG pipelines, and LLM-powered automations in Python
+- 📊 Open to **Data Analyst & Data Science** roles — growing my data skills alongside AI engineering
 - 🛡️ Previously **Junior Penetration Tester @ Byte Capsule** (Aug–Nov 2025) — security assessments & vulnerability research
-- 🌱 Currently exploring **agentic AI workflows, vector databases & advanced RAG**
+- 🌱 Currently exploring **agentic AI workflows, vector databases, advanced RAG & data analysis**
 - 📍 Based in **Bogra, Bangladesh** — open to remote, on-site & hybrid roles
 - ⚡ I break into systems *and* build intelligent ones
 
@@ -69,3 +71,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-rakibul-hasan&color=2DD4BF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+---
